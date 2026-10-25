@@ -1,6 +1,6 @@
 
 ## Hi! 😊 Welcome to my GitHub.
-I will soon begin my Ph.D. studies at Renmin University of China (**RUC**), advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/) and [Dr. Cheng Chi](https://scholar.google.com/citations?user=wWGpskcAAAAJ&hl=en&oi=ao). My research interests mainly lie in **Embodied AI** and **Large Language Models (LLMs)**.
+I‘m currently a Ph.D. student at Renmin University of China (**RUC**), advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/) and [Dr. Cheng Chi](https://scholar.google.com/citations?user=wWGpskcAAAAJ&hl=en&oi=ao). My research interests mainly lie in **Embodied AI** and **Large Language Models (LLMs)**.
 
 Previously, I worked as a research assistant at the Shenzhen Institute of Advanced Technology (**SIAT**), Chinese Academy of Sciences (**CAS**), where I was advised by [Prof. Min Yang](https://minyang.me/) and [Dr. Minghuan Tan](https://scholar.google.com/citations?hl=en&user=jkbw8AUAAAAJ&view_op=list_works&sortby=pubdate).
 
